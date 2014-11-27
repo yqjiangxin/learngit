@@ -1,6 +1,6 @@
 #               蒋鑫的git学习笔记
 
-    参考：[廖雪峰的网站]（http://liaoxuefeng.com)<br />
+    参考：[廖雪峰的网站](http://liaoxuefeng.com)<br />
 ##1、将目录变成git可以管理的仓库
 ````
 git init
